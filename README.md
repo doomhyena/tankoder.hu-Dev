@@ -1,2 +1,4 @@
-# tankoder.hu-Dev
-A tankoder.hu hivatalos kódja
+# tankoder.hu
+
+Copyright (c) [2025] [Csontos Kincső]
+All rights reserved.
