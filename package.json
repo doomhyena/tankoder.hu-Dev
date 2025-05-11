@@ -1,0 +1,22 @@
+{
+  "name": "zentry",
+  "version": "1.0.0",
+  "description": "Copyright (c) [2025] [Csontos Kincső]\r All rights reserved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomhyena/Zentry.git"
+  },
+  "author": "Csontos Kincső",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomhyena/Zentry/issues"
+  },
+  "homepage": "https://github.com/doomhyena/Zentry#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
